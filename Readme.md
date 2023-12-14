@@ -1,6 +1,3 @@
-Certainly! Here is the requested markdown content:
-
-```markdown
 # Todo App
 
 This is a simple Todo application built with Go and MongoDB.
